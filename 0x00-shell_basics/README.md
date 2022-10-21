@@ -47,9 +47,9 @@
 - [school.mgc](school.mgc)
 
 ## *Author*
-- **Adepegba David .A.
+- **Adepegba David .A.**
 
-* Twitter -[@adepegbadavid1](twitter.com/adepegbadavid1)
+* *Twitter* -[@adepegbadavid1](twitter.com/adepegbadavid1)
 
 
 
