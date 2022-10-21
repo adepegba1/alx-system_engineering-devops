@@ -49,7 +49,7 @@
 ## *Author*
 - **Adepegba David .A.**
 
-* *Twitter* -[@adepegbadavid1](twitter.com/adepegbadavid1)
+* ***Twitter*** -[@adepegbadavid1](twitter.com/adepegbadavid1)
 
 
 
