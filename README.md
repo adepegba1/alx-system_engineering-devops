@@ -1,5 +1,4 @@
-#This is the shell basics project on ALX
-**In this project, i will be talking on what i learnt from the ALX in my first week**
+# This is the shell basics project on ALX, in this project, i will be talking on what i learnt from the ALX in my first week
 -Shell Navigation and Basics
 *Shell Permissions
 _Shell Redirections
