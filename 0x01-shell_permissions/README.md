@@ -8,4 +8,4 @@
 - [shell permission](http://linuxcommand.org/lc3_lts0090.php)
 ## Author
 - Adepegba David
-- *Twitter*: [@adepegbadavid1](htpps://twitter.com/adepegbadavid1)
+- *Twitter*: [@adepegbadavid1](https://twitter.com/adepegbadavid1)
