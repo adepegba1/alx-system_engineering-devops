@@ -46,7 +46,10 @@
 - [103-commas](103-commas)
 - [school.mgc](school.mgc)
 
-## Adepegba David .A.
+## *Author*
+- **Adepegba David .A.
+
+* Twitter -[@adepegbadavid1](twitter.com/adepegbadavid1)
 
 
 
