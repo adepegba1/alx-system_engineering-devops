@@ -46,6 +46,10 @@
 - [103-commas](103-commas)
 - [school.mgc](school.mgc)
 
+## **Read more**
+- [What is shell?](http://linuxcommand.org/lc3_lts0010.php)
+- [Navigation](http://linuxcommand.org/lc3_lts0020.php)
+- [more Navigation](http://linuxcommand.org/lc3_lts0030.php)
 ## *Author*
 - **Adepegba David .A.**
 
