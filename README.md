@@ -73,31 +73,25 @@
   - [103-the_biggest_fan](./0x02-shell_redirections/103-the_biggest_fan)
  
 - [0x03-shell_variables_expansions](./0x03-shell_variables_expansions)
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
+  - [0-alias](0-alias)
+  - [1-hello_you](1-hello_you)
+  - [2-path](2-path)
+  - [3-paths](3-paths)
+  - [4-global_variables](4-global_variables)
+  - [5-local_variables](5-local_variables)
+  - [6-create_local_variable](6-create_local_variable)
+  - [7-create_global_variable](7-create_global_variable)
+  - [8-true_knowledge](8-true_knowledge)
+  - [9-divide_and_rule](9-divide_and_rule)
+  - [10-love_exponent_breath](10-love_exponent_breath)
+  - [11-binary_to_decimal](11-binary_to_decimal)
+  - [12-combinations](12-combinations)
+  - [13-print_float](13-print_float)
+  - [100-decimal_to_hexadecimal](100-decimal_to_hexadecimal)
+  - [101-rot13](101-rot13)
+  - [102-odd](102-odd)
+  - [103-water_and_stir](103-water_and_stir)
+
 ## Author
 - **Adepegba David .A.**
 - ***twitter*** [@adepegbadavid1](https://twitter.com/adepegbadavid1)
