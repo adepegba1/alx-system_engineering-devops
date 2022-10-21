@@ -24,27 +24,6 @@
 
 - **when using this command, you need to put the file you want to use with the command.**
 - *You can use **man** to read more about a command and how to use them effectively.*
-## table of content
-- [0-current_working_directory](0-current_working_directory)
-- [1-listit](1-listit)
-- [2-bring_me_home](2-bring_me_home)
-- [3-listfiles](3-listfiles)
-- [4-listmorefiles](4-listmorefiles)
-- [5-listfilesdigitonly](5-listfilesdigitonly)
-- [6-firstdirectory](6-firstdirectory)
-- [7-movethatfile](7-movethatfile)
-- [8-firstdelete](8-firstdelete)
-- [9-firstdirdeletion](9-firstdirdeletion)
-- [10-back](10-back)
-- [11-lists](11-lists)
-- [12-file_type](12-file_type)
-- [13-symbolic_link](13-symbolic_link)
-- [14-copy_html](14-copy_html)
-- [100-lets_move](100-lets_move)
-- [101-clean_emacs](101-clean_emacs)
-- [102-tree](102-tree)
-- [103-commas](103-commas)
-- [school.mgc](school.mgc)
 
 ## **Read more**
 - [What is shell?](http://linuxcommand.org/lc3_lts0010.php)
