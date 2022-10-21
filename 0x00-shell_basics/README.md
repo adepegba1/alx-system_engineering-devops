@@ -46,7 +46,7 @@
 - [103-commas](103-commas)
 - [school.mgc](school.mgc)
 
-##Adepegba David .A.
+## -[author](Adepegba David .A.)
 
 
 
