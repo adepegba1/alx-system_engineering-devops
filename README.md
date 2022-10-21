@@ -1,5 +1,2 @@
-# This is the shell basics project on ALX, in this project, i will be talking on what i learnt from the ALX in my first week
-# Shell Navigation and Basics
-# Shell Permissions
-# Shell Redirections
-# Shell Variables and Expansions
+# This is the shell basics project on ALX, in this project, i will be talking on what i learnt from the ALX in my first month
+** in this month, i learn how to navigate from one file or directory into another one**
