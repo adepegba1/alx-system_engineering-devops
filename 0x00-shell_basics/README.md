@@ -45,7 +45,7 @@
 - [102-tree](102-tree)
 - [103-commas](103-commas)
 - [school.mgc](school.mgc)
-- [author]
+
 ##Adepegba David .A.
 
 
