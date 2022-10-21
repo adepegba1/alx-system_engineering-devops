@@ -44,35 +44,60 @@
   - [103-Star_Wars](./0x01-shell_permissions/103-Star_Wars)
  
 - [0x02-shell_redirections](./0x02-shell_redirections)
-  - [0-hello_world](0-hello_world) 
-  - [1-confused_smiley](1-confused_smiley)
-  - [2-hellofile](2-hellofile)
-  - [3-twofiles](3-twofiles)
-  - [4-lastlines](4-lastlines)
-  - [5-firstlines](5-firstlines)
-  - [6-third_line](6-third_line)
-  - [7-file](7-file)
-  - [8-cwd_state](8-cwd_state)
-  - [9-duplicate_last_line](9-duplicate_last_line)
-  - [10-no_more_js](10-no_more_js)
-  - [11-directories](11-directories)
-  - [12-newest_files](12-newest_files)
-  - [13-unique](13-unique)
-  - [14-findthatword](14-findthatword)
-  - [15-countthatword](15-countthatword)
-  - [16-whatsnext](16-whatsnext)
-  - [17-hidethisword](17-hidethisword)
-  - [18-letteronly](18-letteronly)
-  - [19-AZ](19-AZ)
-  - [20-hiago](20-hiago)
-  - [21-reverse](21-reverse)
-  - [22-users_and_homes](22-users_and_homes)
-  - [100-empty_casks](100-empty_casks)
-  - [101-gifs](101-gifs)
-  - [102-acrostic](102-acrostic)
-  - [103-the_biggest_fan](103-the_biggest_fan)
+  - [0-hello_world](./0x02-shell_redirections/0-hello_world) 
+  - [1-confused_smiley](./0x02-shell_redirections/1-confused_smiley)
+  - [2-hellofile](./0x02-shell_redirections/2-hellofile)
+  - [3-twofiles](./0x02-shell_redirections/3-twofiles)
+  - [4-lastlines](./0x02-shell_redirections/4-lastlines)
+  - [5-firstlines](./0x02-shell_redirections/5-firstlines)
+  - [6-third_line](./0x02-shell_redirections/6-third_line)
+  - [7-file](./0x02-shell_redirections/7-file)
+  - [8-cwd_state](./0x02-shell_redirections/8-cwd_state)
+  - [9-duplicate_last_line](./0x02-shell_redirections/9-duplicate_last_line)
+  - [10-no_more_js](./0x02-shell_redirections/10-no_more_js)
+  - [11-directories](./0x02-shell_redirections/11-directories)
+  - [12-newest_files](./0x02-shell_redirections/12-newest_files)
+  - [13-unique](./0x02-shell_redirections/13-unique)
+  - [14-findthatword](./0x02-shell_redirections/14-findthatword)
+  - [15-countthatword](./0x02-shell_redirections/15-countthatword)
+  - [16-whatsnext](./0x02-shell_redirections/16-whatsnext)
+  - [17-hidethisword](./0x02-shell_redirections/17-hidethisword)
+  - [18-letteronly](./0x02-shell_redirections/18-letteronly)
+  - [19-AZ](./0x02-shell_redirections/19-AZ)
+  - [20-hiago](./0x02-shell_redirections/20-hiago)
+  - [21-reverse](./0x02-shell_redirections/21-reverse)
+  - [22-users_and_homes](./0x02-shell_redirections/22-users_and_homes)
+  - [100-empty_casks](./0x02-shell_redirections/100-empty_casks)
+  - [101-gifs](./0x02-shell_redirections/101-gifs)
+  - [102-acrostic](./0x02-shell_redirections/102-acrostic)
+  - [103-the_biggest_fan](./0x02-shell_redirections/103-the_biggest_fan)
  
 - [0x03-shell_variables_expansions](./0x03-shell_variables_expansions)
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
 ## Author
 - **Adepegba David .A.**
 - ***twitter*** [@adepegbadavid1](https://twitter.com/adepegbadavid1)
