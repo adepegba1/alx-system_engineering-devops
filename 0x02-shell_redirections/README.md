@@ -16,5 +16,5 @@
  - [Special Characters](http://mywiki.wooledge.org/BashGuide/SpecialCharacters)
 
 ## Author
- **Adepegba David .A.**
+ - **Adepegba David .A.**
  - ***Twitter*** -[@adepegbadavid1](https://twitter.com/adepegbadavid1)
