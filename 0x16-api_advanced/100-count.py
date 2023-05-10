@@ -1,5 +1,6 @@
+#!/usr/bin/python3
 dule for storing the count_words function. """
-from requests import get
+from requests import get """
 
 
 def count_words(subreddit, word_list, word_count=[], page_after=None):
