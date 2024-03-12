@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 # Install Nginx, and redirect to Nyan Cat
-
 sudo apt update -y
 sudo apt upgrade -y
 sudo apt install nginx -y
