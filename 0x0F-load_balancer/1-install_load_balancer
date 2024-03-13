@@ -9,7 +9,7 @@ mode http
 default_backend web_back
 backend web_back
 balance roundrobin
-server web1 35.227.78.73 check
-server web2 34.75.67.238 check
+server web1 54.89.119.136 check
+server web2 34.204.95.144 check
 " >> /etc/haproxy/haproxy.cfg
 sudo service haproxy restart
