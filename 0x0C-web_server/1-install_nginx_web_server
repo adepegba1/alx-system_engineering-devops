@@ -21,3 +21,5 @@ echo "server {
      root        /var/www/html;
      index       index.html index.htm;
 }" > /etc/nginx/sites-available/default
+
+sudo service nginx start
